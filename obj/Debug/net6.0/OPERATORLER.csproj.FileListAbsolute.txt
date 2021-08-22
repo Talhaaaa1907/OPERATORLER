@@ -1,0 +1,15 @@
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\bin\Debug\net6.0\OPERATORLER.exe
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\bin\Debug\net6.0\OPERATORLER.deps.json
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\bin\Debug\net6.0\OPERATORLER.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\bin\Debug\net6.0\OPERATORLER.dll
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\bin\Debug\net6.0\ref\OPERATORLER.dll
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\bin\Debug\net6.0\OPERATORLER.pdb
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\obj\Debug\net6.0\OPERATORLER.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\obj\Debug\net6.0\OPERATORLER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\obj\Debug\net6.0\OPERATORLER.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\obj\Debug\net6.0\OPERATORLER.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\obj\Debug\net6.0\OPERATORLER.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\obj\Debug\net6.0\OPERATORLER.dll
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\obj\Debug\net6.0\ref\OPERATORLER.dll
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\obj\Debug\net6.0\OPERATORLER.pdb
+C:\Users\talha\OneDrive\Masaüstü\OPERATORLER\obj\Debug\net6.0\OPERATORLER.genruntimeconfig.cache
